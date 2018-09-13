@@ -1,5 +1,5 @@
 # --- modify vars here ---
-%define php_version       7.2.9
+%define php_version       7.2.10
 %define php_prefix        7
 %define rpm_datecode      20180913
 %define imagick_version   3.4.3
