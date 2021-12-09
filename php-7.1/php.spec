@@ -1,7 +1,7 @@
 # --- modify vars here ---
-%define php_version       7.1.20
+%define php_version       7.1.21
 %define php_prefix        7
-%define rpm_datecode      20180719
+%define rpm_datecode      20211209
 %define imagick_version   3.4.3
 %define apcu_version      5.1.8
 %define redis_version     3.1.4
